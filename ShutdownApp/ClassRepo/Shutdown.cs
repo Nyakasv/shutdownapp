@@ -7,7 +7,7 @@ using System.Diagnostics;
 
 namespace ShutdownApp.ClassRepo
 {
-    //This class only functiuns as a "shutdown.exe" process starter or it can abort the process. 
+    //This class only functions as a "shutdown.exe" process starter and it can abort the process. 
     public class Shutdown
     {
         public int ShutdownTimer { get; set; }
